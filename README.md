@@ -1,6 +1,6 @@
-<h1>Hi there 👋, I'm Mikias Berhanu</h1>
+<h1>Hi there 👋, I'm Mikias </h1>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?lines=Welcome+To+My+GitHub+Profile;Full+Stack+Developer;Passionate+About+AI+And+Quantum+Computing;Open+to+Collaborations!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?lines=Welcome+To+My+GitHub+Profile;Full+Stack+Developer;Passionate+About+AI+And+Quantum;Open+to+Collaborations!)](https://git.io/typing-svg)
 
 ## 🔭 Current Projects
 
